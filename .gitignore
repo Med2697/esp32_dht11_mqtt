@@ -1,2 +1,4 @@
 Python/config.py
 Python/cert.crt
+ESP32/config.*
+ESP32/cert.*
